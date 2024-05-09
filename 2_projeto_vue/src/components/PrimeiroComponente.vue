@@ -1,7 +1,7 @@
 <template>
    <div>
         <h1>Hello Vue!</h1>
-        <p>My name is {{ nome }} andi work as {{ profissao }} </p>
+        <p>My name is {{ nome }} and i work as {{ profissao }} </p>
    </div>
 </template>
 
@@ -11,7 +11,7 @@
         name: 'PrimeiroComponente',
         data() {
             return {
-                nome: "Matheus",
+                nome: "Daniel Lagares",
                 profissao: "Programmer"
             }
         }

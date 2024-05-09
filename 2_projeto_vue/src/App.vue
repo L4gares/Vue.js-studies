@@ -1,7 +1,7 @@
 <template>
   <div>
     <primeiroComponente/>
-    <p>O dado de app is: {{ testando }}</p>
+    <p>O data de app is: {{ testando }}</p>
     
     <LifeCycle/>
     
